@@ -1,0 +1,2 @@
+Do not remove any data in this folder!
+You will need to reinstall to get them back.
